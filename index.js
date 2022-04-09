@@ -1,5 +1,6 @@
 const express = require('express')
 const app = express()
+const path = require('path')
 app.use(express.json())
 const products = require('./products')
 
@@ -7,8 +8,8 @@ const PORT = process.env.PORT || 8080
 
 
 app.get('/', (req,res)=>{
-    res.send(
-        '<h1>Productos Apple</h1>'
+    res.sendFile(
+        path.join(__dirname+"/public/index.html")
     )
 })
 
