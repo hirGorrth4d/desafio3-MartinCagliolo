@@ -3,6 +3,7 @@ const app = express()
 const path = require('path')
 app.use(express.json())
 const products = require('./products')
+import Contenedor from './desafio2'
 
 const PORT = process.env.PORT || 8080
 

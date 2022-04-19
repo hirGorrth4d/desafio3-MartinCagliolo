@@ -1,0 +1,21 @@
+[{
+  "title": "Escuadra",
+  "price": 152.5,
+  "thumbnail": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.seawhite.co.uk%2Fimagecache%2F6d084f72-7747-4b0c-a432-095215a06d70_749x440.jpg&f=1&nofb=1",
+  "id": 1
+}, {
+  "title": "Calculadora",
+  "price": 350,
+  "thumbnail": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.EQEUEEePk2MVRTJzJ9i_DwHaHa%26pid%3DApi&f=1",
+  "id": 2
+}, {
+  "title": "Globo Terraqueo",
+  "price": 500,
+  "thumbnail": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.bOZqswPe_toRzfCa4xvV4gHaHa%26pid%3DApi&f=1",
+  "id": 3
+}, {
+  "title": "Globo Terraqueo",
+  "price": 500,
+  "thumbnail": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.bOZqswPe_toRzfCa4xvV4gHaHa%26pid%3DApi&f=1",
+  "id": 4
+}]
