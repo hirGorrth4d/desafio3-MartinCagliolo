@@ -15,9 +15,10 @@ app.get('/', (req,res)=>{
 })
 
 app.get('/productos', (req,res) =>{
+    let productos = new Contenedor("productos.json")
     res.send({
-        message: 'Información recibida',
-        data: products
+        message: 'Todos los productos',
+        data: productos.getAll()
     })
 })
 
